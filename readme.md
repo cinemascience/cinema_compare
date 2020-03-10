@@ -2,5 +2,5 @@
 
 This repository has been **DEPRICATED**.
 
-New development will continue under the [Cinema:View repository](git@github.com:cinemascience/cinema_view.git)
+New development will continue under the [Cinema:View repository](https://github.com/cinemascience/cinema_compare).
 
