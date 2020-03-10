@@ -1,4 +1,4 @@
-## Cinema:Compare repository, Release v1.1
+## Cinema:Compare repository DEPRICATED
 
 This repository has been **DEPRICATED**.
 
